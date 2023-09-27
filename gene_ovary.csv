@@ -1,0 +1,709 @@
+biotype,symbol,cytoband,is_cancer_gene_census,name,gene_id
+protein_coding,MACC1,['7p21.1'],True,MET transcriptional regulator MACC1,ENSG00000183742
+protein_coding,RFWD3,['16q23.1'],True,ring finger and WD repeat domain 3,ENSG00000168411
+protein_coding,CBLC,['19q13.32'],True,Cbl proto-oncogene C,ENSG00000142273
+protein_coding,BMPR1A,['10q23.2'],True,bone morphogenetic protein receptor type 1A,ENSG00000107779
+protein_coding,NCOA1,['2p23.3'],True,nuclear receptor coactivator 1,ENSG00000084676
+protein_coding,ERCC5,['13q33.1'],True,"ERCC excision repair 5, endonuclease",ENSG00000134899
+protein_coding,FOXA1,['14q21.1'],True,forkhead box A1,ENSG00000129514
+protein_coding,ZNF331,['19q13.42'],True,zinc finger protein 331,ENSG00000130844
+protein_coding,TAF15,['17q12'],True,TATA-box binding protein associated factor 15,ENSG00000270647
+protein_coding,CCND2,['12p13.32'],True,cyclin D2,ENSG00000118971
+protein_coding,CDH11,['16q21'],True,cadherin 11,ENSG00000140937
+protein_coding,RPN1,['3q21.3'],True,ribophorin I,ENSG00000163902
+protein_coding,EPS15,['1p32.3'],True,epidermal growth factor receptor pathway substrate 15,ENSG00000085832
+protein_coding,WIF1,['12q14.3'],True,WNT inhibitory factor 1,ENSG00000156076
+protein_coding,CBL,['11q23.3'],True,Cbl proto-oncogene,ENSG00000110395
+protein_coding,SS18,['18q11.2'],True,SS18 subunit of BAF chromatin remodeling complex,ENSG00000141380
+protein_coding,BCOR,['Xp11.4'],True,BCL6 corepressor,ENSG00000183337
+protein_coding,DDX5,['17q23.3'],True,DEAD-box helicase 5,ENSG00000108654
+protein_coding,GATA3,['10p14'],True,GATA binding protein 3,ENSG00000107485
+protein_coding,PPFIBP1,"['12p11.23', '12p11.22']",True,PPFIA binding protein 1,ENSG00000110841
+protein_coding,SHTN1,['10q25.3'],True,shootin 1,ENSG00000187164
+protein_coding,HLF,['17q22'],True,"HLF transcription factor, PAR bZIP family member",ENSG00000108924
+protein_coding,TRIM27,['6p22.1'],True,tripartite motif containing 27,ENSG00000204713
+protein_coding,ACKR3,['2q37.3'],True,atypical chemokine receptor 3,ENSG00000144476
+protein_coding,ATRX,['Xq21.1'],True,ATRX chromatin remodeler,ENSG00000085224
+protein_coding,ERCC2,['19q13.32'],True,"ERCC excision repair 2, TFIIH core complex helicase subunit",ENSG00000104884
+protein_coding,ABL2,['1q25.2'],True,"ABL proto-oncogene 2, non-receptor tyrosine kinase",ENSG00000143322
+protein_coding,FCGR2B,['1q23.3'],True,Fc fragment of IgG receptor IIb,ENSG00000072694
+protein_coding,AR,['Xq12'],True,androgen receptor,ENSG00000169083
+protein_coding,SIX2,['2p21'],True,SIX homeobox 2,ENSG00000170577
+protein_coding,ZCCHC8,['12q24.31'],True,zinc finger CCHC-type containing 8,ENSG00000033030
+protein_coding,NAB2,['12q13.3'],True,NGFI-A binding protein 2,ENSG00000166886
+protein_coding,S100A7,['1q21.3'],True,S100 calcium binding protein A7,ENSG00000143556
+protein_coding,TGFBR2,['3p24.1'],True,transforming growth factor beta receptor 2,ENSG00000163513
+protein_coding,WAS,['Xp11.23'],True,WASP actin nucleation promoting factor,ENSG00000015285
+protein_coding,MALT1,['18q21.32'],True,MALT1 paracaspase,ENSG00000172175
+protein_coding,STAT6,['12q13.3'],True,signal transducer and activator of transcription 6,ENSG00000166888
+protein_coding,PAX5,['9p13.2'],True,paired box 5,ENSG00000196092
+protein_coding,ZMYM2,['13q12.11'],True,zinc finger MYM-type containing 2,ENSG00000121741
+protein_coding,MUC16,['19p13.2'],True,"mucin 16, cell surface associated",ENSG00000181143
+protein_coding,DDX10,['11q22.3'],True,DEAD-box helicase 10,ENSG00000178105
+protein_coding,MAP2K1,['15q22.31'],True,mitogen-activated protein kinase kinase 1,ENSG00000169032
+protein_coding,SLC34A2,['4p15.2'],True,solute carrier family 34 member 2,ENSG00000157765
+protein_coding,WRN,['8p12'],True,WRN RecQ like helicase,ENSG00000165392
+protein_coding,POLQ,['3q13.33'],True,DNA polymerase theta,ENSG00000051341
+protein_coding,SKI,"['1p36.33', '1p36.32']",True,SKI proto-oncogene,ENSG00000157933
+protein_coding,IL21R,['16p12.1'],True,interleukin 21 receptor,ENSG00000103522
+protein_coding,EIF1AX,['Xp22.12'],True,eukaryotic translation initiation factor 1A X-linked,ENSG00000173674
+protein_coding,ELF3,['1q32.1'],True,E74 like ETS transcription factor 3,ENSG00000163435
+protein_coding,MB21D2,['3q29'],True,Mab-21 domain containing 2,ENSG00000180611
+protein_coding,VHL,['3p25.3'],True,von Hippel-Lindau tumor suppressor,ENSG00000134086
+protein_coding,MAML2,['11q21'],True,mastermind like transcriptional coactivator 2,ENSG00000184384
+protein_coding,CDKN1B,['12p13.1'],True,cyclin dependent kinase inhibitor 1B,ENSG00000111276
+protein_coding,GNA11,['19p13.3'],True,G protein subunit alpha 11,ENSG00000088256
+protein_coding,HERPUD1,['16q13'],True,homocysteine inducible ER protein with ubiquitin like domain 1,ENSG00000051108
+protein_coding,ARNT,['1q21.3'],True,aryl hydrocarbon receptor nuclear translocator,ENSG00000143437
+protein_coding,NFE2L2,['2q31.2'],True,"nuclear factor, erythroid 2 like 2",ENSG00000116044
+protein_coding,EGFR,['7p11.2'],True,epidermal growth factor receptor,ENSG00000146648
+protein_coding,ATR,['3q23'],True,ATR serine/threonine kinase,ENSG00000175054
+protein_coding,MLLT1,['19p13.3'],True,MLLT1 super elongation complex subunit,ENSG00000130382
+protein_coding,POU2AF1,['11q23.1'],True,POU class 2 homeobox associating factor 1,ENSG00000110777
+protein_coding,PRDM2,['1p36.21'],True,PR/SET domain 2,ENSG00000116731
+protein_coding,ERBB3,['12q13.2'],True,erb-b2 receptor tyrosine kinase 3,ENSG00000065361
+protein_coding,DDIT3,['12q13.3'],True,DNA damage inducible transcript 3,ENSG00000175197
+protein_coding,VTI1A,['10q25.2'],True,vesicle transport through interaction with t-SNAREs 1A,ENSG00000151532
+protein_coding,MYH11,['16p13.11'],True,myosin heavy chain 11,ENSG00000133392
+protein_coding,EXT2,['11p11.2'],True,exostosin glycosyltransferase 2,ENSG00000151348
+protein_coding,NONO,['Xq13.1'],True,non-POU domain containing octamer binding,ENSG00000147140
+protein_coding,MDM4,['1q32.1'],True,MDM4 regulator of p53,ENSG00000198625
+protein_coding,GATA2,['3q21.3'],True,GATA binding protein 2,ENSG00000179348
+protein_coding,SMARCD1,['12q13.12'],True,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1",ENSG00000066117
+protein_coding,CXCR4,['2q22.1'],True,C-X-C motif chemokine receptor 4,ENSG00000121966
+protein_coding,KEAP1,['19p13.2'],True,kelch like ECH associated protein 1,ENSG00000079999
+protein_coding,TSC2,['16p13.3'],True,TSC complex subunit 2,ENSG00000103197
+protein_coding,ROBO2,['3p12.3'],True,roundabout guidance receptor 2,ENSG00000185008
+protein_coding,USP8,['15q21.2'],True,ubiquitin specific peptidase 8,ENSG00000138592
+protein_coding,SEPTIN5,['22q11.21'],True,septin 5,ENSG00000184702
+protein_coding,KIT,['4q12'],True,"KIT proto-oncogene, receptor tyrosine kinase",ENSG00000157404
+protein_coding,TAL1,['1p33'],True,"TAL bHLH transcription factor 1, erythroid differentiation factor",ENSG00000162367
+protein_coding,EWSR1,['22q12.2'],True,EWS RNA binding protein 1,ENSG00000182944
+protein_coding,FLT3,['13q12.2'],True,fms related receptor tyrosine kinase 3,ENSG00000122025
+protein_coding,CLTCL1,['22q11.21'],True,clathrin heavy chain like 1,ENSG00000070371
+protein_coding,IRF4,['6p25.3'],True,interferon regulatory factor 4,ENSG00000137265
+protein_coding,MAP3K1,['5q11.2'],True,mitogen-activated protein kinase kinase kinase 1,ENSG00000095015
+protein_coding,CIITA,['16p13.13'],True,class II major histocompatibility complex transactivator,ENSG00000179583
+protein_coding,CD28,['2q33.2'],True,CD28 molecule,ENSG00000178562
+protein_coding,LCK,['1p35.2'],True,"LCK proto-oncogene, Src family tyrosine kinase",ENSG00000182866
+protein_coding,SDHB,['1p36.13'],True,succinate dehydrogenase complex iron sulfur subunit B,ENSG00000117118
+protein_coding,CLP1,['11q12.1'],True,cleavage factor polyribonucleotide kinase subunit 1,ENSG00000172409
+protein_coding,PIK3CA,['3q26.32'],True,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",ENSG00000121879
+protein_coding,IDH1,['2q34'],True,isocitrate dehydrogenase (NADP(+)) 1,ENSG00000138413
+protein_coding,A1CF,['10q11.23'],True,APOBEC1 complementation factor,ENSG00000148584
+protein_coding,AKT1,['14q32.33'],True,AKT serine/threonine kinase 1,ENSG00000142208
+protein_coding,IDH2,['15q26.1'],True,isocitrate dehydrogenase (NADP(+)) 2,ENSG00000182054
+protein_coding,SMC1A,['Xp11.22'],True,structural maintenance of chromosomes 1A,ENSG00000072501
+protein_coding,BCL6,['3q27.3'],True,BCL6 transcription repressor,ENSG00000113916
+protein_coding,KNSTRN,['15q15.1'],True,kinetochore localized astrin (SPAG5) binding protein,ENSG00000128944
+protein_coding,DCAF12L2,['Xq25'],True,DDB1 and CUL4 associated factor 12 like 2,ENSG00000198354
+protein_coding,EPHA7,['6q16.1'],True,EPH receptor A7,ENSG00000135333
+protein_coding,ISX,['22q12.3'],True,intestine specific homeobox,ENSG00000175329
+protein_coding,KLK2,['19q13.33'],True,kallikrein related peptidase 2,ENSG00000167751
+protein_coding,PRPF40B,['12q13.12'],True,pre-mRNA processing factor 40 homolog B,ENSG00000110844
+protein_coding,PALB2,['16p12.2'],True,partner and localizer of BRCA2,ENSG00000083093
+protein_coding,FGFR3,['4p16.3'],True,fibroblast growth factor receptor 3,ENSG00000068078
+protein_coding,IGF2BP2,['3q27.2'],True,insulin like growth factor 2 mRNA binding protein 2,ENSG00000073792
+protein_coding,HOXD11,['2q31.1'],True,homeobox D11,ENSG00000128713
+protein_coding,PDGFRA,['4q12'],True,platelet derived growth factor receptor alpha,ENSG00000134853
+protein_coding,SH3GL1,['19p13.3'],True,"SH3 domain containing GRB2 like 1, endophilin A2",ENSG00000141985
+protein_coding,SOX21,['13q32.1'],True,SRY-box transcription factor 21,ENSG00000125285
+protein_coding,CLTC,['17q23.1'],True,clathrin heavy chain,ENSG00000141367
+protein_coding,RAD21,['8q24.11'],True,RAD21 cohesin complex component,ENSG00000164754
+protein_coding,ID3,['1p36.12'],True,"inhibitor of DNA binding 3, HLH protein",ENSG00000117318
+protein_coding,AFDN,['6q27'],True,"afadin, adherens junction formation factor",ENSG00000130396
+protein_coding,NKX2-1,['14q13.3'],True,NK2 homeobox 1,ENSG00000136352
+protein_coding,QKI,['6q26'],True,"QKI, KH domain containing RNA binding",ENSG00000112531
+protein_coding,MAX,['14q23.3'],True,MYC associated factor X,ENSG00000125952
+protein_coding,CARS1,['11p15.4'],True,cysteinyl-tRNA synthetase 1,ENSG00000110619
+protein_coding,PLAG1,['8q12.1'],True,PLAG1 zinc finger,ENSG00000181690
+protein_coding,TMEM127,['2q11.2'],True,transmembrane protein 127,ENSG00000135956
+protein_coding,BAP1,['3p21.1'],True,BRCA1 associated protein 1,ENSG00000163930
+protein_coding,SND1,['7q32.1'],True,staphylococcal nuclease and tudor domain containing 1,ENSG00000197157
+protein_coding,BCL9,['1q21.2'],True,BCL9 transcription coactivator,ENSG00000116128
+protein_coding,SMAD3,['15q22.33'],True,SMAD family member 3,ENSG00000166949
+protein_coding,CDH1,['16q22.1'],True,cadherin 1,ENSG00000039068
+protein_coding,PRDM16,['1p36.32'],True,PR/SET domain 16,ENSG00000142611
+protein_coding,H3C2,['6p22.2'],True,H3 clustered histone 2,ENSG00000286522
+protein_coding,SEPTIN6,['Xq24'],True,septin 6,ENSG00000125354
+protein_coding,NUTM2B,['10q22.3'],True,NUT family member 2B,ENSG00000188199
+protein_coding,ARID2,['12q12'],True,AT-rich interaction domain 2,ENSG00000189079
+protein_coding,RECQL4,['8q24.3'],True,RecQ like helicase 4,ENSG00000160957
+protein_coding,CARD11,['7p22.2'],True,caspase recruitment domain family member 11,ENSG00000198286
+protein_coding,DGCR8,['22q11.21'],True,DGCR8 microprocessor complex subunit,ENSG00000128191
+protein_coding,CDKN1A,['6p21.2'],True,cyclin dependent kinase inhibitor 1A,ENSG00000124762
+protein_coding,CSF3R,['1p34.3'],True,colony stimulating factor 3 receptor,ENSG00000119535
+protein_coding,RPL5,['1p22.1'],True,ribosomal protein L5,ENSG00000122406
+protein_coding,HNRNPA2B1,['7p15.2'],True,heterogeneous nuclear ribonucleoprotein A2/B1,ENSG00000122566
+protein_coding,STIL,['1p33'],True,STIL centriolar assembly protein,ENSG00000123473
+protein_coding,CBFA2T3,['16q24.3'],True,CBFA2/RUNX1 partner transcriptional co-repressor 3,ENSG00000129993
+protein_coding,TCF12,['15q21.3'],True,transcription factor 12,ENSG00000140262
+protein_coding,CRTC3,['15q26.1'],True,CREB regulated transcription coactivator 3,ENSG00000140577
+protein_coding,CYP2C8,['10q23.33'],True,cytochrome P450 family 2 subfamily C member 8,ENSG00000138115
+protein_coding,NF2,['22q12.2'],True,neurofibromin 2,ENSG00000186575
+protein_coding,IRS4,['Xq22.3'],True,insulin receptor substrate 4,ENSG00000133124
+protein_coding,FHIT,['3p14.2'],True,fragile histidine triad diadenosine triphosphatase,ENSG00000189283
+protein_coding,ROS1,['6q22.1'],True,"ROS proto-oncogene 1, receptor tyrosine kinase",ENSG00000047936
+protein_coding,LCP1,['13q14.13'],True,lymphocyte cytosolic protein 1,ENSG00000136167
+protein_coding,JUN,['1p32.1'],True,"Jun proto-oncogene, AP-1 transcription factor subunit",ENSG00000177606
+protein_coding,ETNK1,['12p12.1'],True,ethanolamine kinase 1,ENSG00000139163
+protein_coding,FAM135B,['8q24.23'],True,family with sequence similarity 135 member B,ENSG00000147724
+protein_coding,MAP3K13,['3q27.2'],True,mitogen-activated protein kinase kinase kinase 13,ENSG00000073803
+protein_coding,BRCA1,['17q21.31'],True,BRCA1 DNA repair associated,ENSG00000012048
+protein_coding,LASP1,['17q12'],True,LIM and SH3 protein 1,ENSG00000002834
+protein_coding,EPHA3,['3p11.1'],True,EPH receptor A3,ENSG00000044524
+protein_coding,POU5F1,['6p21.33'],True,POU class 5 homeobox 1,ENSG00000204531
+protein_coding,SLC45A3,['1q32.1'],True,solute carrier family 45 member 3,ENSG00000158715
+protein_coding,LEPROTL1,['8p12'],True,leptin receptor overlapping transcript like 1,ENSG00000104660
+protein_coding,CTNNA2,['2p12'],True,catenin alpha 2,ENSG00000066032
+protein_coding,KCNJ5,['11q24.3'],True,potassium inwardly rectifying channel subfamily J member 5,ENSG00000120457
+protein_coding,NF1,['17q11.2'],True,neurofibromin 1,ENSG00000196712
+protein_coding,CHD2,['15q26.1'],True,chromodomain helicase DNA binding protein 2,ENSG00000173575
+protein_coding,HOXD13,['2q31.1'],True,homeobox D13,ENSG00000128714
+protein_coding,MUC1,['1q22'],True,"mucin 1, cell surface associated",ENSG00000185499
+protein_coding,FOXL2,['3q22.3'],True,forkhead box L2,ENSG00000183770
+protein_coding,KDR,['4q12'],True,kinase insert domain receptor,ENSG00000128052
+protein_coding,TNFRSF17,['16p13.13'],True,TNF receptor superfamily member 17,ENSG00000048462
+protein_coding,PRCC,['1q23.1'],True,proline rich mitotic checkpoint control factor,ENSG00000143294
+transcribed_processed_pseudogene,HMGN2P46,['15q21.1'],True,high mobility group nucleosomal binding domain 2 pseudogene 46,ENSG00000179362
+protein_coding,GATA1,['Xp11.23'],True,GATA binding protein 1,ENSG00000102145
+protein_coding,POLG,['15q26.1'],True,"DNA polymerase gamma, catalytic subunit",ENSG00000140521
+protein_coding,RBM10,['Xp11.3'],True,RNA binding motif protein 10,ENSG00000182872
+protein_coding,TRIP11,['14q32.12'],True,thyroid hormone receptor interactor 11,ENSG00000100815
+protein_coding,MYO5A,['15q21.2'],True,myosin VA,ENSG00000197535
+protein_coding,OLIG2,['21q22.11'],True,oligodendrocyte transcription factor 2,ENSG00000205927
+protein_coding,APOBEC3B,['22q13.1'],True,apolipoprotein B mRNA editing enzyme catalytic subunit 3B,ENSG00000179750
+protein_coding,NCOR1,"['17p12', '17p11.2']",True,nuclear receptor corepressor 1,ENSG00000141027
+protein_coding,PBX1,['1q23.3'],True,PBX homeobox 1,ENSG00000185630
+protein_coding,ETV1,['7p21.2'],True,ETS variant transcription factor 1,ENSG00000006468
+protein_coding,TPR,['1q31.1'],True,"translocated promoter region, nuclear basket protein",ENSG00000047410
+protein_coding,NFIB,"['9p23', '9p22.3']",True,nuclear factor I B,ENSG00000147862
+protein_coding,MN1,['22q12.1'],True,"MN1 proto-oncogene, transcriptional regulator",ENSG00000169184
+protein_coding,NT5C2,"['10q24.32', '10q24.33']",True,"5'-nucleotidase, cytosolic II",ENSG00000076685
+protein_coding,LIFR,['5p13.1'],True,LIF receptor subunit alpha,ENSG00000113594
+protein_coding,XPA,['9q22.33'],True,"XPA, DNA damage recognition and repair factor",ENSG00000136936
+protein_coding,CREB3L1,['11p11.2'],True,cAMP responsive element binding protein 3 like 1,ENSG00000157613
+protein_coding,FLNA,['Xq28'],True,filamin A,ENSG00000196924
+protein_coding,DDR2,['1q23.3'],True,discoidin domain receptor tyrosine kinase 2,ENSG00000162733
+protein_coding,RET,['10q11.21'],True,ret proto-oncogene,ENSG00000165731
+protein_coding,FES,['15q26.1'],True,"FES proto-oncogene, tyrosine kinase",ENSG00000182511
+protein_coding,SETD1B,['12q24.31'],True,"SET domain containing 1B, histone lysine methyltransferase",ENSG00000139718
+protein_coding,RSPO2,['8q23.1'],True,R-spondin 2,ENSG00000147655
+protein_coding,RBM15,['1p13.3'],True,RNA binding motif protein 15,ENSG00000162775
+protein_coding,HIF1A,['14q23.2'],True,hypoxia inducible factor 1 subunit alpha,ENSG00000100644
+protein_coding,CCND1,['11q13.3'],True,cyclin D1,ENSG00000110092
+protein_coding,LEF1,['4q25'],True,lymphoid enhancer binding factor 1,ENSG00000138795
+protein_coding,RNF213,['17q25.3'],True,ring finger protein 213,ENSG00000173821
+protein_coding,BCLAF1,['6q23.3'],True,BCL2 associated transcription factor 1,ENSG00000029363
+protein_coding,H3-3A,['1q42.12'],True,H3.3 histone A,ENSG00000163041
+protein_coding,NDRG1,['8q24.22'],True,N-myc downstream regulated 1,ENSG00000104419
+protein_coding,CASP3,['4q35.1'],True,caspase 3,ENSG00000164305
+protein_coding,B2M,['15q21.1'],True,beta-2-microglobulin,ENSG00000166710
+protein_coding,CCR4,['3p22.3'],True,C-C motif chemokine receptor 4,ENSG00000183813
+protein_coding,PLCG1,['20q12'],True,phospholipase C gamma 1,ENSG00000124181
+protein_coding,SS18L1,['20q13.33'],True,SS18L1 subunit of BAF chromatin remodeling complex,ENSG00000184402
+protein_coding,ZNRF3,['22q12.1'],True,zinc and ring finger 3,ENSG00000183579
+protein_coding,SDHA,['5p15.33'],True,succinate dehydrogenase complex flavoprotein subunit A,ENSG00000073578
+protein_coding,KLF4,['9q31.2'],True,Kruppel like factor 4,ENSG00000136826
+protein_coding,NSD3,['8p11.23'],True,nuclear receptor binding SET domain protein 3,ENSG00000147548
+protein_coding,ZBTB16,['11q23.2'],True,zinc finger and BTB domain containing 16,ENSG00000109906
+protein_coding,TRRAP,['7q22.1'],True,transformation/transcription domain associated protein,ENSG00000196367
+protein_coding,RAP1GDS1,['4q23'],True,Rap1 GTPase-GDP dissociation stimulator 1,ENSG00000138698
+protein_coding,RGS7,['1q43'],True,regulator of G protein signaling 7,ENSG00000182901
+protein_coding,MTOR,['1p36.22'],True,mechanistic target of rapamycin kinase,ENSG00000198793
+protein_coding,WNK2,['9q22.31'],True,WNK lysine deficient protein kinase 2,ENSG00000165238
+protein_coding,CYSLTR2,['13q14.2'],True,cysteinyl leukotriene receptor 2,ENSG00000152207
+protein_coding,CEBPA,['19q13.11'],True,CCAAT enhancer binding protein alpha,ENSG00000245848
+protein_coding,CHEK2,['22q12.1'],True,checkpoint kinase 2,ENSG00000183765
+protein_coding,SETBP1,['18q12.3'],True,SET binding protein 1,ENSG00000152217
+protein_coding,MPL,['1p34.2'],True,"MPL proto-oncogene, thrombopoietin receptor",ENSG00000117400
+protein_coding,TBL1XR1,['3q26.32'],True,TBL1X receptor 1,ENSG00000177565
+protein_coding,IKBKB,['8p11.21'],True,inhibitor of nuclear factor kappa B kinase subunit beta,ENSG00000104365
+protein_coding,BCR,['22q11.23'],True,BCR activator of RhoGEF and GTPase,ENSG00000186716
+protein_coding,LHFPL6,"['13q13.3', '13q14.11']",True,LHFPL tetraspan subfamily member 6,ENSG00000183722
+protein_coding,PAX7,['1p36.13'],True,paired box 7,ENSG00000009709
+protein_coding,AKT3,"['1q43', '1q44']",True,AKT serine/threonine kinase 3,ENSG00000117020
+protein_coding,GMPS,['3q25.31'],True,guanine monophosphate synthase,ENSG00000163655
+protein_coding,STAG1,['3q22.3'],True,stromal antigen 1,ENSG00000118007
+protein_coding,CCNB1IP1,['14q11.2'],True,cyclin B1 interacting protein 1,ENSG00000100814
+protein_coding,EP300,['22q13.2'],True,E1A binding protein p300,ENSG00000100393
+protein_coding,STAG2,['Xq25'],True,stromal antigen 2,ENSG00000101972
+protein_coding,PTPRB,['12q15'],True,protein tyrosine phosphatase receptor type B,ENSG00000127329
+protein_coding,MSN,['Xq12'],True,moesin,ENSG00000147065
+protein_coding,FANCE,['6p21.31'],True,FA complementation group E,ENSG00000112039
+protein_coding,N4BP2,['4p14'],True,NEDD4 binding protein 2,ENSG00000078177
+protein_coding,PIM1,['6p21.2'],True,"Pim-1 proto-oncogene, serine/threonine kinase",ENSG00000137193
+protein_coding,ERBB2,['17q12'],True,erb-b2 receptor tyrosine kinase 2,ENSG00000141736
+protein_coding,CRTC1,['19p13.11'],True,CREB regulated transcription coactivator 1,ENSG00000105662
+protein_coding,LSM14A,['19q13.11'],True,LSM14A mRNA processing body assembly factor,ENSG00000257103
+protein_coding,OMD,['9q22.31'],True,osteomodulin,ENSG00000127083
+protein_coding,ETV4,['17q21.31'],True,ETS variant transcription factor 4,ENSG00000175832
+protein_coding,RALGDS,"['9q34.13', '9q34.2']",True,ral guanine nucleotide dissociation stimulator,ENSG00000160271
+protein_coding,NBN,['8q21.3'],True,nibrin,ENSG00000104320
+protein_coding,TET1,['10q21.3'],True,tet methylcytosine dioxygenase 1,ENSG00000138336
+protein_coding,BRIP1,['17q23.2'],True,BRCA1 interacting protein C-terminal helicase 1,ENSG00000136492
+protein_coding,RABEP1,['17p13.2'],True,"rabaptin, RAB GTPase binding effector protein 1",ENSG00000029725
+protein_coding,ELK4,['1q32.1'],True,ETS transcription factor ELK4,ENSG00000158711
+protein_coding,ERCC3,['2q14.3'],True,"ERCC excision repair 3, TFIIH core complex helicase subunit",ENSG00000163161
+protein_coding,KIF5B,['10p11.22'],True,kinesin family member 5B,ENSG00000170759
+protein_coding,ERG,['21q22.2'],True,ETS transcription factor ERG,ENSG00000157554
+protein_coding,IL6ST,['5q11.2'],True,interleukin 6 signal transducer,ENSG00000134352
+protein_coding,NPM1,['5q35.1'],True,nucleophosmin 1,ENSG00000181163
+protein_coding,RMI2,['16p13.13'],True,RecQ mediated genome instability 2,ENSG00000175643
+protein_coding,RHOH,['4p14'],True,ras homolog family member H,ENSG00000168421
+protein_coding,CDH10,"['5p14.2', '5p14.1']",True,cadherin 10,ENSG00000040731
+protein_coding,AFF4,['5q31.1'],True,AF4/FMR2 family member 4,ENSG00000072364
+protein_coding,ETV6,['12p13.2'],True,ETS variant transcription factor 6,ENSG00000139083
+protein_coding,CSF1R,['5q32'],True,colony stimulating factor 1 receptor,ENSG00000182578
+protein_coding,BCL9L,['11q23.3'],True,BCL9 like,ENSG00000186174
+protein_coding,ALK,"['2p23.2', '2p23.1']",True,ALK receptor tyrosine kinase,ENSG00000171094
+protein_coding,LRP1B,"['2q22.1', '2q22.2']",True,LDL receptor related protein 1B,ENSG00000168702
+protein_coding,NUP214,['9q34.13'],True,nucleoporin 214,ENSG00000126883
+protein_coding,CTCF,['16q22.1'],True,CCCTC-binding factor,ENSG00000102974
+protein_coding,FGFR4,['5q35.2'],True,fibroblast growth factor receptor 4,ENSG00000160867
+protein_coding,GOLGA5,['14q32.12'],True,golgin A5,ENSG00000066455
+protein_coding,EML4,['2p21'],True,EMAP like 4,ENSG00000143924
+protein_coding,SBDS,['7q11.21'],True,SBDS ribosome maturation factor,ENSG00000126524
+protein_coding,CD79B,['17q23.3'],True,CD79b molecule,ENSG00000007312
+protein_coding,MITF,['3p13'],True,melanocyte inducing transcription factor,ENSG00000187098
+protein_coding,PHOX2B,['4p13'],True,paired like homeobox 2B,ENSG00000109132
+protein_coding,SPEN,"['1p36.21', '1p36.13']",True,spen family transcriptional repressor,ENSG00000065526
+protein_coding,ASPSCR1,['17q25.3'],True,"ASPSCR1 tether for SLC2A4, UBX domain containing",ENSG00000169696
+protein_coding,SRGAP3,['3p25.3'],True,SLIT-ROBO Rho GTPase activating protein 3,ENSG00000196220
+protein_coding,ELN,['7q11.23'],True,elastin,ENSG00000049540
+protein_coding,IL2,['4q27'],True,interleukin 2,ENSG00000109471
+protein_coding,ZNF521,['18q11.2'],True,zinc finger protein 521,ENSG00000198795
+protein_coding,CDC73,['1q31.2'],True,cell division cycle 73,ENSG00000134371
+protein_coding,KDM5A,['12p13.33'],True,lysine demethylase 5A,ENSG00000073614
+protein_coding,BCL10,['1p22.3'],True,BCL10 immune signaling adaptor,ENSG00000142867
+protein_coding,MYC,['8q24.21'],True,"MYC proto-oncogene, bHLH transcription factor",ENSG00000136997
+protein_coding,CASP9,['1p36.21'],True,caspase 9,ENSG00000132906
+protein_coding,CTNND2,['5p15.2'],True,catenin delta 2,ENSG00000169862
+protein_coding,BLM,['15q26.1'],True,BLM RecQ like helicase,ENSG00000197299
+protein_coding,CEP89,['19q13.11'],True,centrosomal protein 89,ENSG00000121289
+protein_coding,FSTL3,['19p13.3'],True,follistatin like 3,ENSG00000070404
+protein_coding,DNMT3A,['2p23.3'],True,DNA methyltransferase 3 alpha,ENSG00000119772
+protein_coding,COX6C,['8q22.2'],True,cytochrome c oxidase subunit 6C,ENSG00000164919
+protein_coding,SDHC,['1q23.3'],True,succinate dehydrogenase complex subunit C,ENSG00000143252
+protein_coding,TRAF7,['16p13.3'],True,TNF receptor associated factor 7,ENSG00000131653
+protein_coding,FNBP1,['9q34.11'],True,formin binding protein 1,ENSG00000187239
+protein_coding,FGFR1,['8p11.23'],True,fibroblast growth factor receptor 1,ENSG00000077782
+protein_coding,HEY1,['8q21.13'],True,hes related family bHLH transcription factor with YRPW motif 1,ENSG00000164683
+protein_coding,JAK1,['1p31.3'],True,Janus kinase 1,ENSG00000162434
+protein_coding,TEC,"['4p12', '4p11']",True,transient erythroblastopenia of childhood,ENSG00000135605
+protein_coding,ACVR2A,"['2q22.3', '2q23.1']",True,activin A receptor type 2A,ENSG00000121989
+protein_coding,RNF43,['17q22'],True,ring finger protein 43,ENSG00000108375
+protein_coding,FOXP1,['3p13'],True,forkhead box P1,ENSG00000114861
+protein_coding,RAD51B,['14q24.1'],True,RAD51 paralog B,ENSG00000182185
+protein_coding,CD74,['5q33.1'],True,CD74 molecule,ENSG00000019582
+protein_coding,KMT2C,['7q36.1'],True,lysine methyltransferase 2C,ENSG00000055609
+protein_coding,COL1A1,['17q21.33'],True,collagen type I alpha 1 chain,ENSG00000108821
+protein_coding,ARHGEF10,['8p23.3'],True,Rho guanine nucleotide exchange factor 10,ENSG00000104728
+protein_coding,BAX,['19q13.33'],True,"BCL2 associated X, apoptosis regulator",ENSG00000087088
+protein_coding,KTN1,['14q22.3'],True,kinectin 1,ENSG00000126777
+protein_coding,MSI2,['17q22'],True,musashi RNA binding protein 2,ENSG00000153944
+protein_coding,KDM5C,['Xp11.22'],True,lysine demethylase 5C,ENSG00000126012
+protein_coding,UBR5,['8q22.3'],True,ubiquitin protein ligase E3 component n-recognin 5,ENSG00000104517
+protein_coding,ITGAV,['2q32.1'],True,integrin subunit alpha V,ENSG00000138448
+protein_coding,PML,['15q24.1'],True,PML nuclear body scaffold,ENSG00000140464
+protein_coding,CHD4,['12p13.31'],True,chromodomain helicase DNA binding protein 4,ENSG00000111642
+protein_coding,KAT6B,['10q22.2'],True,lysine acetyltransferase 6B,ENSG00000156650
+protein_coding,EZH2,['7q36.1'],True,enhancer of zeste 2 polycomb repressive complex 2 subunit,ENSG00000106462
+protein_coding,HOOK3,['8p11.21'],True,hook microtubule tethering protein 3,ENSG00000168172
+protein_coding,HRAS,['11p15.5'],True,"HRas proto-oncogene, GTPase",ENSG00000174775
+protein_coding,CPEB3,['10q23.32'],True,cytoplasmic polyadenylation element binding protein 3,ENSG00000107864
+protein_coding,FLT4,['5q35.3'],True,fms related receptor tyrosine kinase 4,ENSG00000037280
+protein_coding,HOXC11,['12q13.13'],True,homeobox C11,ENSG00000123388
+protein_coding,KDSR,['18q21.33'],True,3-ketodihydrosphingosine reductase,ENSG00000119537
+protein_coding,SDHD,['11q23.1'],True,succinate dehydrogenase complex subunit D,ENSG00000204370
+protein_coding,SYK,['9q22.2'],True,spleen associated tyrosine kinase,ENSG00000165025
+protein_coding,DAXX,['6p21.32'],True,death domain associated protein,ENSG00000204209
+protein_coding,SOX2,['3q26.33'],True,SRY-box transcription factor 2,ENSG00000181449
+protein_coding,WT1,['11p13'],True,WT1 transcription factor,ENSG00000184937
+protein_coding,SMARCE1,['17q21.2'],True,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1",ENSG00000073584
+protein_coding,FUBP1,['1p31.1'],True,far upstream element binding protein 1,ENSG00000162613
+protein_coding,HOXC13,['12q13.13'],True,homeobox C13,ENSG00000123364
+protein_coding,MLF1,['3q25.32'],True,myeloid leukemia factor 1,ENSG00000178053
+protein_coding,USP44,['12q22'],True,ubiquitin specific peptidase 44,ENSG00000136014
+protein_coding,FANCD2,['3p25.3'],True,FA complementation group D2,ENSG00000144554
+protein_coding,GPC3,['Xq26.2'],True,glypican 3,ENSG00000147257
+protein_coding,BCL2L12,['19q13.33'],True,BCL2 like 12,ENSG00000126453
+protein_coding,STRN,['2p22.2'],True,striatin,ENSG00000115808
+protein_coding,SETD2,['3p21.31'],True,"SET domain containing 2, histone lysine methyltransferase",ENSG00000181555
+protein_coding,CALR,['19p13.13'],True,calreticulin,ENSG00000179218
+protein_coding,ZNF384,['12p13.31'],True,zinc finger protein 384,ENSG00000126746
+protein_coding,EBF1,['5q33.3'],True,EBF transcription factor 1,ENSG00000164330
+protein_coding,CHCHD7,['8q12.1'],True,coiled-coil-helix-coiled-coil-helix domain containing 7,ENSG00000170791
+protein_coding,APC,['5q22.2'],True,APC regulator of WNT signaling pathway,ENSG00000134982
+protein_coding,CUX1,['7q22.1'],True,cut like homeobox 1,ENSG00000257923
+protein_coding,FBLN2,['3p25.1'],True,fibulin 2,ENSG00000163520
+protein_coding,HOXA11,['7p15.2'],True,homeobox A11,ENSG00000005073
+protein_coding,HMGA2,['12q14.3'],True,high mobility group AT-hook 2,ENSG00000149948
+protein_coding,HSP90AB1,['6p21.1'],True,heat shock protein 90 alpha family class B member 1,ENSG00000096384
+protein_coding,TRIM33,['1p13.2'],True,tripartite motif containing 33,ENSG00000197323
+protein_coding,KMT2D,['12q13.12'],True,lysine methyltransferase 2D,ENSG00000167548
+protein_coding,LPP,"['3q27.3', '3q28']",True,LIM domain containing preferred translocation partner in lipoma,ENSG00000145012
+protein_coding,PCBP1,['2p13.3'],True,poly(rC) binding protein 1,ENSG00000169564
+protein_coding,DDX6,['11q23.3'],True,DEAD-box helicase 6,ENSG00000110367
+protein_coding,DICER1,['14q32.13'],True,"dicer 1, ribonuclease III",ENSG00000100697
+protein_coding,MLLT10,['10p12.31'],True,MLLT10 histone lysine methyltransferase DOT1L cofactor,ENSG00000078403
+protein_coding,CCNE1,['19q12'],True,cyclin E1,ENSG00000105173
+protein_coding,CSMD3,['8q23.3'],True,CUB and Sushi multiple domains 3,ENSG00000164796
+protein_coding,ARID1A,['1p36.11'],True,AT-rich interaction domain 1A,ENSG00000117713
+protein_coding,SFPQ,['1p34.3'],True,splicing factor proline and glutamine rich,ENSG00000116560
+protein_coding,ERC1,['12p13.33'],True,ELKS/RAB6-interacting/CAST family member 1,ENSG00000082805
+protein_coding,GRIN2A,['16p13.2'],True,glutamate ionotropic receptor NMDA type subunit 2A,ENSG00000183454
+protein_coding,RARA,['17q21.2'],True,retinoic acid receptor alpha,ENSG00000131759
+protein_coding,HNF1A,['12q24.31'],True,HNF1 homeobox A,ENSG00000135100
+protein_coding,CDK6,['7q21.2'],True,cyclin dependent kinase 6,ENSG00000105810
+protein_coding,PDCD1LG2,['9p24.1'],True,programmed cell death 1 ligand 2,ENSG00000197646
+protein_coding,PRKACA,['19p13.12'],True,protein kinase cAMP-activated catalytic subunit alpha,ENSG00000072062
+protein_coding,POLD1,['19q13.33'],True,"DNA polymerase delta 1, catalytic subunit",ENSG00000062822
+protein_coding,NUP98,['11p15.4'],True,nucleoporin 98 and 96 precursor,ENSG00000110713
+protein_coding,CDKN2C,['1p32.3'],True,cyclin dependent kinase inhibitor 2C,ENSG00000123080
+protein_coding,AFF3,['2q11.2'],True,AF4/FMR2 family member 3,ENSG00000144218
+protein_coding,NCOA2,['8q13.3'],True,nuclear receptor coactivator 2,ENSG00000140396
+protein_coding,TSHR,['14q31.1'],True,thyroid stimulating hormone receptor,ENSG00000165409
+protein_coding,KAT6A,['8p11.21'],True,lysine acetyltransferase 6A,ENSG00000083168
+protein_coding,CIC,['19q13.2'],True,capicua transcriptional repressor,ENSG00000079432
+protein_coding,STAT5B,['17q21.2'],True,signal transducer and activator of transcription 5B,ENSG00000173757
+protein_coding,SIX1,['14q23.1'],True,SIX homeobox 1,ENSG00000126778
+protein_coding,BRAF,['7q34'],True,"B-Raf proto-oncogene, serine/threonine kinase",ENSG00000157764
+protein_coding,VAV1,['19p13.3'],True,vav guanine nucleotide exchange factor 1,ENSG00000141968
+protein_coding,RUNX1,['21q22.12'],True,RUNX family transcription factor 1,ENSG00000159216
+protein_coding,ARHGAP26,['5q31.3'],True,Rho GTPase activating protein 26,ENSG00000145819
+protein_coding,FLCN,['17p11.2'],True,folliculin,ENSG00000154803
+protein_coding,TENT5C,['1p12'],True,terminal nucleotidyltransferase 5C,ENSG00000183508
+protein_coding,PBRM1,['3p21.1'],True,polybromo 1,ENSG00000163939
+protein_coding,ALDH2,['12q24.12'],True,aldehyde dehydrogenase 2 family member,ENSG00000111275
+protein_coding,U2AF1,['21q22.3'],True,U2 small nuclear RNA auxiliary factor 1,ENSG00000160201
+protein_coding,FBXW7,['4q31.3'],True,F-box and WD repeat domain containing 7,ENSG00000109670
+protein_coding,AKAP9,['7q21.2'],True,A-kinase anchoring protein 9,ENSG00000127914
+protein_coding,MYD88,['3p22.2'],True,MYD88 innate immune signal transduction adaptor,ENSG00000172936
+protein_coding,SSX2,['Xp11.22'],True,SSX family member 2,ENSG00000241476
+protein_coding,CLIP1,['12q24.31'],True,CAP-Gly domain containing linker protein 1,ENSG00000130779
+protein_coding,CTNNB1,['3p22.1'],True,catenin beta 1,ENSG00000168036
+protein_coding,NRAS,['1p13.2'],True,"NRAS proto-oncogene, GTPase",ENSG00000213281
+protein_coding,MECOM,['3q26.2'],True,MDS1 and EVI1 complex locus,ENSG00000085276
+protein_coding,SMAD4,['18q21.2'],True,SMAD family member 4,ENSG00000141646
+protein_coding,USP6,['17p13.2'],True,ubiquitin specific peptidase 6,ENSG00000129204
+protein_coding,ATF1,['12q13.12'],True,activating transcription factor 1,ENSG00000123268
+protein_coding,NUTM1,['15q14'],True,NUT midline carcinoma family member 1,ENSG00000184507
+protein_coding,MYOD1,['11p15.1'],True,myogenic differentiation 1,ENSG00000129152
+protein_coding,ZNF479,['7p11.2'],True,zinc finger protein 479,ENSG00000185177
+protein_coding,SEPTIN9,['17q25.3'],True,septin 9,ENSG00000184640
+protein_coding,CCR7,['17q21.2'],True,C-C motif chemokine receptor 7,ENSG00000126353
+protein_coding,MYH9,['22q12.3'],True,myosin heavy chain 9,ENSG00000100345
+protein_coding,PPARG,['3p25.2'],True,peroxisome proliferator activated receptor gamma,ENSG00000132170
+protein_coding,FGFR2,['10q26.13'],True,fibroblast growth factor receptor 2,ENSG00000066468
+protein_coding,CBLB,['3q13.11'],True,Cbl proto-oncogene B,ENSG00000114423
+protein_coding,BARD1,['2q35'],True,BRCA1 associated RING domain 1,ENSG00000138376
+protein_coding,PDGFB,['22q13.1'],True,platelet derived growth factor subunit B,ENSG00000100311
+protein_coding,PRKCB,"['16p12.2', '16p12.1']",True,protein kinase C beta,ENSG00000166501
+protein_coding,LARP4B,['10p15.3'],True,La ribonucleoprotein 4B,ENSG00000107929
+protein_coding,MRTFA,"['22q13.1', '22q13.2']",True,myocardin related transcription factor A,ENSG00000196588
+protein_coding,GNAS,['20q13.32'],True,GNAS complex locus,ENSG00000087460
+protein_coding,ZMYM3,['Xq13.1'],True,zinc finger MYM-type containing 3,ENSG00000147130
+protein_coding,NUTM2D,['10q23.2'],True,NUT family member 2D,ENSG00000214562
+protein_coding,FEN1,['11q12.2'],True,flap structure-specific endonuclease 1,ENSG00000168496
+protein_coding,ATP1A1,['1p13.1'],True,ATPase Na+/K+ transporting subunit alpha 1,ENSG00000163399
+protein_coding,EZR,['6q25.3'],True,ezrin,ENSG00000092820
+protein_coding,ELF4,['Xq26.1'],True,E74 like ETS transcription factor 4,ENSG00000102034
+protein_coding,FANCG,['9p13.3'],True,FA complementation group G,ENSG00000221829
+protein_coding,PWWP2A,['5q33.3'],True,PWWP domain containing 2A,ENSG00000170234
+protein_coding,BTG1,['12q21.33'],True,BTG anti-proliferation factor 1,ENSG00000133639
+protein_coding,TFEB,['6p21.1'],True,transcription factor EB,ENSG00000112561
+protein_coding,ATIC,['2q35'],True,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,ENSG00000138363
+protein_coding,SPECC1,['17p11.2'],True,sperm antigen with calponin homology and coiled-coil domains 1,ENSG00000128487
+protein_coding,FKBP9,['7p14.3'],True,FKBP prolyl isomerase 9,ENSG00000122642
+protein_coding,JAK2,['9p24.1'],True,Janus kinase 2,ENSG00000096968
+protein_coding,CUL3,['2q36.2'],True,cullin 3,ENSG00000036257
+protein_coding,CDKN2A,['9p21.3'],True,cyclin dependent kinase inhibitor 2A,ENSG00000147889
+protein_coding,CDX2,['13q12.2'],True,caudal type homeobox 2,ENSG00000165556
+protein_coding,LMO2,['11p13'],True,LIM domain only 2,ENSG00000135363
+protein_coding,RSPO3,['6q22.33'],True,R-spondin 3,ENSG00000146374
+protein_coding,EED,['11q14.2'],True,embryonic ectoderm development,ENSG00000074266
+protein_coding,GNAQ,['9q21.2'],True,G protein subunit alpha q,ENSG00000156052
+protein_coding,STAT3,['17q21.2'],True,signal transducer and activator of transcription 3,ENSG00000168610
+protein_coding,PPM1D,['17q23.2'],True,"protein phosphatase, Mg2+/Mn2+ dependent 1D",ENSG00000170836
+protein_coding,NSD2,['4p16.3'],True,nuclear receptor binding SET domain protein 2,ENSG00000109685
+protein_coding,IKZF1,['7p12.2'],True,IKAROS family zinc finger 1,ENSG00000185811
+protein_coding,PIK3R1,['5q13.1'],True,phosphoinositide-3-kinase regulatory subunit 1,ENSG00000145675
+protein_coding,SMO,['7q32.1'],True,"smoothened, frizzled class receptor",ENSG00000128602
+protein_coding,DEK,['6p22.3'],True,DEK proto-oncogene,ENSG00000124795
+protein_coding,NCOR2,['12q24.31'],True,nuclear receptor corepressor 2,ENSG00000196498
+protein_coding,TFRC,['3q29'],True,transferrin receptor,ENSG00000072274
+protein_coding,TLX3,['5q35.1'],True,T cell leukemia homeobox 3,ENSG00000164438
+protein_coding,XPO1,['2p15'],True,exportin 1,ENSG00000082898
+protein_coding,ARHGEF12,['11q23.3'],True,Rho guanine nucleotide exchange factor 12,ENSG00000196914
+protein_coding,POLE,['12q24.33'],True,"DNA polymerase epsilon, catalytic subunit",ENSG00000177084
+protein_coding,BTK,['Xq22.1'],True,Bruton tyrosine kinase,ENSG00000010671
+protein_coding,BAZ1A,"['14q13.1', '14q13.2']",True,bromodomain adjacent to zinc finger domain 1A,ENSG00000198604
+protein_coding,HLA-A,['6p22.1'],True,"major histocompatibility complex, class I, A",ENSG00000206503
+protein_coding,SGK1,['6q23.2'],True,serum/glucocorticoid regulated kinase 1,ENSG00000118515
+protein_coding,ZFHX3,"['16q22.2', '16q22.3']",True,zinc finger homeobox 3,ENSG00000140836
+protein_coding,BIRC6,['2p22.3'],True,baculoviral IAP repeat containing 6,ENSG00000115760
+protein_coding,ERCC4,['16p13.12'],True,"ERCC excision repair 4, endonuclease catalytic subunit",ENSG00000175595
+protein_coding,YWHAE,['17p13.3'],True,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,ENSG00000108953
+protein_coding,NFKBIE,['6p21.1'],True,NFKB inhibitor epsilon,ENSG00000146232
+protein_coding,COL2A1,['12q13.11'],True,collagen type II alpha 1 chain,ENSG00000139219
+protein_coding,LZTR1,['22q11.21'],True,leucine zipper like transcription regulator 1,ENSG00000099949
+protein_coding,CD274,['9p24.1'],True,CD274 molecule,ENSG00000120217
+protein_coding,SDHAF2,['11q12.2'],True,succinate dehydrogenase complex assembly factor 2,ENSG00000167985
+protein_coding,BRD3,['9q34.2'],True,bromodomain containing 3,ENSG00000169925
+protein_coding,ANK1,['8p11.21'],True,ankyrin 1,ENSG00000029534
+protein_coding,FIP1L1,['4q12'],True,factor interacting with PAPOLA and CPSF1,ENSG00000145216
+protein_coding,FCRL4,['1q23.1'],True,Fc receptor like 4,ENSG00000163518
+protein_coding,BCL11A,['2p16.1'],True,BAF chromatin remodeling complex subunit BCL11A,ENSG00000119866
+protein_coding,CNOT3,['19q13.42'],True,CCR4-NOT transcription complex subunit 3,ENSG00000088038
+protein_coding,GOPC,['6q22.1'],True,golgi associated PDZ and coiled-coil motif containing,ENSG00000047932
+protein_coding,ITK,['5q33.3'],True,IL2 inducible T cell kinase,ENSG00000113263
+protein_coding,FAT1,['4q35.2'],True,FAT atypical cadherin 1,ENSG00000083857
+protein_coding,PTEN,['10q23.31'],True,phosphatase and tensin homolog,ENSG00000171862
+protein_coding,SMAD2,['18q21.1'],True,SMAD family member 2,ENSG00000175387
+protein_coding,SFRP4,['7p14.1'],True,secreted frizzled related protein 4,ENSG00000106483
+protein_coding,AMER1,['Xq11.2'],True,APC membrane recruitment protein 1,ENSG00000184675
+protein_coding,FAT4,['4q28.1'],True,FAT atypical cadherin 4,ENSG00000196159
+protein_coding,NR4A3,['9q31.1'],True,nuclear receptor subfamily 4 group A member 3,ENSG00000119508
+protein_coding,NTRK1,['1q23.1'],True,neurotrophic receptor tyrosine kinase 1,ENSG00000198400
+protein_coding,CREB1,['2q33.3'],True,cAMP responsive element binding protein 1,ENSG00000118260
+protein_coding,TAL2,['9q31.2'],True,TAL bHLH transcription factor 2,ENSG00000186051
+protein_coding,HMGA1,['6p21.31'],True,high mobility group AT-hook 1,ENSG00000137309
+protein_coding,DNAJB1,['19p13.12'],True,DnaJ heat shock protein family (Hsp40) member B1,ENSG00000132002
+protein_coding,PSIP1,['9p22.3'],True,PC4 and SFRS1 interacting protein 1,ENSG00000164985
+protein_coding,TCF7L2,"['10q25.2', '10q25.3']",True,transcription factor 7 like 2,ENSG00000148737
+protein_coding,CNBP,['3q21.3'],True,CCHC-type zinc finger nucleic acid binding protein,ENSG00000169714
+protein_coding,STK11,['19p13.3'],True,serine/threonine kinase 11,ENSG00000118046
+protein_coding,ZNF429,['19p12'],True,zinc finger protein 429,ENSG00000197013
+protein_coding,MLH1,['3p22.2'],True,mutL homolog 1,ENSG00000076242
+protein_coding,TCL1A,['14q32.13'],True,TCL1 family AKT coactivator A,ENSG00000100721
+protein_coding,CBFB,['16q22.1'],True,core-binding factor subunit beta,ENSG00000067955
+protein_coding,FANCF,['11p14.3'],True,FA complementation group F,ENSG00000183161
+protein_coding,BIRC3,['11q22.2'],True,baculoviral IAP repeat containing 3,ENSG00000023445
+protein_coding,LMNA,['1q22'],True,lamin A/C,ENSG00000160789
+protein_coding,TNFRSF14,['1p36.32'],True,TNF receptor superfamily member 14,ENSG00000157873
+protein_coding,CD79A,['19q13.2'],True,CD79a molecule,ENSG00000105369
+protein_coding,KLF6,['10p15.2'],True,Kruppel like factor 6,ENSG00000067082
+protein_coding,FANCC,['9q22.32'],True,FA complementation group C,ENSG00000158169
+protein_coding,MSH6,['2p16.3'],True,mutS homolog 6,ENSG00000116062
+protein_coding,KIAA1549,['7q34'],True,KIAA1549,ENSG00000122778
+protein_coding,TRIM24,"['7q33', '7q34']",True,tripartite motif containing 24,ENSG00000122779
+protein_coding,KMT2A,['11q23.3'],True,lysine methyltransferase 2A,ENSG00000118058
+protein_coding,DDB2,['11p11.2'],True,damage specific DNA binding protein 2,ENSG00000134574
+protein_coding,TERT,['5p15.33'],True,telomerase reverse transcriptase,ENSG00000164362
+protein_coding,SDC4,['20q13.12'],True,syndecan 4,ENSG00000124145
+protein_coding,PATZ1,['22q12.2'],True,POZ/BTB and AT hook containing zinc finger 1,ENSG00000100105
+protein_coding,CREBBP,['16p13.3'],True,CREB binding protein,ENSG00000005339
+protein_coding,LMO1,['11p15.4'],True,LIM domain only 1,ENSG00000166407
+protein_coding,WDCP,['2p23.3'],True,WD repeat and coiled coil containing,ENSG00000163026
+protein_coding,FBXO11,['2p16.3'],True,F-box protein 11,ENSG00000138081
+protein_coding,TMPRSS2,['21q22.3'],True,transmembrane serine protease 2,ENSG00000184012
+protein_coding,CDH17,['8q22.1'],True,cadherin 17,ENSG00000079112
+protein_coding,PMS2,['7p22.1'],True,"PMS1 homolog 2, mismatch repair system component",ENSG00000122512
+protein_coding,ERBB4,['2q34'],True,erb-b2 receptor tyrosine kinase 4,ENSG00000178568
+protein_coding,MAFB,['20q12'],True,MAF bZIP transcription factor B,ENSG00000204103
+protein_coding,SUFU,['10q24.32'],True,SUFU negative regulator of hedgehog signaling,ENSG00000107882
+protein_coding,AXIN1,['16p13.3'],True,axin 1,ENSG00000103126
+protein_coding,LYL1,['19p13.13'],True,LYL1 basic helix-loop-helix family member,ENSG00000104903
+protein_coding,NOTCH1,['9q34.3'],True,notch receptor 1,ENSG00000148400
+protein_coding,CCDC6,['10q21.2'],True,coiled-coil domain containing 6,ENSG00000108091
+protein_coding,ARAF,['Xp11.3'],True,"A-Raf proto-oncogene, serine/threonine kinase",ENSG00000078061
+protein_coding,DDX3X,['Xp11.4'],True,DEAD-box helicase 3 X-linked,ENSG00000215301
+protein_coding,WWTR1,['3q25.1'],True,WW domain containing transcription regulator 1,ENSG00000018408
+protein_coding,AFF1,"['4q21.3', '4q22.1']",True,AF4/FMR2 family member 1,ENSG00000172493
+protein_coding,LATS1,['6q25.1'],True,large tumor suppressor kinase 1,ENSG00000131023
+protein_coding,KAT7,['17q21.33'],True,lysine acetyltransferase 7,ENSG00000136504
+protein_coding,AKT2,['19q13.2'],True,AKT serine/threonine kinase 2,ENSG00000105221
+protein_coding,BRD4,['19p13.12'],True,bromodomain containing 4,ENSG00000141867
+protein_coding,C15orf65,['15q21.3'],True,chromosome 15 open reading frame 65,ENSG00000261652
+protein_coding,CDK12,['17q12'],True,cyclin dependent kinase 12,ENSG00000167258
+protein_coding,TNC,['9q33.1'],True,tenascin C,ENSG00000041982
+protein_coding,CNTNAP2,"['7q35', '7q36.1']",True,contactin associated protein 2,ENSG00000174469
+protein_coding,PRRX1,['1q24.2'],True,paired related homeobox 1,ENSG00000116132
+protein_coding,TFPT,['19q13.42'],True,TCF3 fusion partner,ENSG00000105619
+protein_coding,TFG,['3q12.2'],True,trafficking from ER to golgi regulator,ENSG00000114354
+protein_coding,ARID1B,['6q25.3'],True,AT-rich interaction domain 1B,ENSG00000049618
+protein_coding,BCORL1,['Xq26.1'],True,BCL6 corepressor like 1,ENSG00000085185
+protein_coding,MNX1,['7q36.3'],True,motor neuron and pancreas homeobox 1,ENSG00000130675
+protein_coding,ARHGEF10L,['1p36.13'],True,Rho guanine nucleotide exchange factor 10 like,ENSG00000074964
+protein_coding,SF3B1,['2q33.1'],True,splicing factor 3b subunit 1,ENSG00000115524
+protein_coding,PMS1,['2q32.2'],True,"PMS1 homolog 1, mismatch repair system component",ENSG00000064933
+protein_coding,SET,['9q34.11'],True,SET nuclear proto-oncogene,ENSG00000119335
+protein_coding,FAM131B,['7q34'],True,family with sequence similarity 131 member B,ENSG00000159784
+protein_coding,MDM2,['12q15'],True,MDM2 proto-oncogene,ENSG00000135679
+protein_coding,PDE4DIP,['1q21.2'],True,phosphodiesterase 4D interacting protein,ENSG00000178104
+protein_coding,RPL22,['1p36.31'],True,ribosomal protein L22,ENSG00000116251
+protein_coding,PPP6C,['9q33.3'],True,protein phosphatase 6 catalytic subunit,ENSG00000119414
+protein_coding,CNBD1,['8q21.3'],True,cyclic nucleotide binding domain containing 1,ENSG00000176571
+protein_coding,SNX29,"['16p13.13', '16p13.12']",True,sorting nexin 29,ENSG00000048471
+protein_coding,FANCA,['16q24.3'],True,FA complementation group A,ENSG00000187741
+protein_coding,TCEA1,['8q11.23'],True,transcription elongation factor A1,ENSG00000187735
+protein_coding,EIF4A2,['3q27.3'],True,eukaryotic translation initiation factor 4A2,ENSG00000156976
+protein_coding,BUB1B,['15q15.1'],True,BUB1 mitotic checkpoint serine/threonine kinase B,ENSG00000156970
+protein_coding,RB1,['13q14.2'],True,RB transcriptional corepressor 1,ENSG00000139687
+protein_coding,TSC1,['9q34.13'],True,TSC complex subunit 1,ENSG00000165699
+protein_coding,HOXA9,['7p15.2'],True,homeobox A9,ENSG00000078399
+protein_coding,PCM1,['8p22'],True,pericentriolar material 1,ENSG00000078674
+protein_coding,MET,['7q31.2'],True,"MET proto-oncogene, receptor tyrosine kinase",ENSG00000105976
+protein_coding,BCL11B,['14q32.2'],True,BAF chromatin remodeling complex subunit BCL11B,ENSG00000127152
+protein_coding,SPOP,['17q21.33'],True,speckle type BTB/POZ protein,ENSG00000121067
+protein_coding,MYB,['6q23.3'],True,"MYB proto-oncogene, transcription factor",ENSG00000118513
+protein_coding,CHIC2,['4q12'],True,cysteine rich hydrophobic domain 2,ENSG00000109220
+protein_coding,DCC,['18q21.2'],True,DCC netrin 1 receptor,ENSG00000187323
+protein_coding,CNTRL,['9q33.2'],True,centriolin,ENSG00000119397
+protein_coding,SUZ12,['17q11.2'],True,SUZ12 polycomb repressive complex 2 subunit,ENSG00000178691
+protein_coding,JAZF1,"['7p15.2', '7p15.1']",True,JAZF zinc finger 1,ENSG00000153814
+protein_coding,ABI1,['10p12.1'],True,abl interactor 1,ENSG00000136754
+protein_coding,KRAS,['12p12.1'],True,"KRAS proto-oncogene, GTPase",ENSG00000133703
+protein_coding,MGMT,['10q26.3'],True,O-6-methylguanine-DNA methyltransferase,ENSG00000170430
+protein_coding,SETDB1,['1q21.3'],True,SET domain bifurcated histone lysine methyltransferase 1,ENSG00000143379
+protein_coding,SH2B3,['12q24.12'],True,SH2B adaptor protein 3,ENSG00000111252
+protein_coding,PTPRC,"['1q31.3', '1q32.1']",True,protein tyrosine phosphatase receptor type C,ENSG00000081237
+protein_coding,NCOA4,['10q11.22'],True,nuclear receptor coactivator 4,ENSG00000266412
+protein_coding,H3-3B,['17q25.1'],True,H3.3 histone B,ENSG00000132475
+protein_coding,NFKB2,['10q24.32'],True,nuclear factor kappa B subunit 2,ENSG00000077150
+protein_coding,ACSL6,['5q31.1'],True,acyl-CoA synthetase long chain family member 6,ENSG00000164398
+protein_coding,CRNKL1,['20p11.23'],True,crooked neck pre-mRNA splicing factor 1,ENSG00000101343
+protein_coding,ATM,['11q22.3'],True,ATM serine/threonine kinase,ENSG00000149311
+protein_coding,BCL7A,['12q24.31'],True,BAF chromatin remodeling complex subunit BCL7A,ENSG00000110987
+protein_coding,REL,['2p16.1'],True,"REL proto-oncogene, NF-kB subunit",ENSG00000162924
+protein_coding,ASXL2,['2p23.3'],True,ASXL transcriptional regulator 2,ENSG00000143970
+protein_coding,CYLD,['16q12.1'],True,CYLD lysine 63 deubiquitinase,ENSG00000083799
+protein_coding,CCNC,['6q16.2'],True,cyclin C,ENSG00000112237
+protein_coding,HOXA13,['7p15.2'],True,homeobox A13,ENSG00000106031
+protein_coding,PRDM1,['6q21'],True,PR/SET domain 1,ENSG00000057657
+protein_coding,RAD17,['5q13.2'],True,RAD17 checkpoint clamp loader component,ENSG00000152942
+protein_coding,IL7R,['5p13.2'],True,interleukin 7 receptor,ENSG00000168685
+protein_coding,FOXO3,['6q21'],True,forkhead box O3,ENSG00000118689
+protein_coding,CD209,['19p13.2'],True,CD209 molecule,ENSG00000090659
+protein_coding,FEV,['2q35'],True,"FEV transcription factor, ETS family member",ENSG00000163497
+protein_coding,MAF,['16q23.2'],True,MAF bZIP transcription factor,ENSG00000178573
+protein_coding,PRKAR1A,['17q24.2'],True,protein kinase cAMP-dependent type I regulatory subunit alpha,ENSG00000108946
+protein_coding,FOXO4,['Xq13.1'],True,forkhead box O4,ENSG00000184481
+protein_coding,NACA,['12q13.3'],True,nascent polypeptide associated complex subunit alpha,ENSG00000196531
+protein_coding,KDM6A,['Xp11.3'],True,lysine demethylase 6A,ENSG00000147050
+protein_coding,PTK6,['20q13.33'],True,protein tyrosine kinase 6,ENSG00000101213
+protein_coding,HIP1,['7q11.23'],True,huntingtin interacting protein 1,ENSG00000127946
+protein_coding,JAK3,['19p13.11'],True,Janus kinase 3,ENSG00000105639
+protein_coding,NFATC2,['20q13.2'],True,nuclear factor of activated T cells 2,ENSG00000101096
+protein_coding,MAP2K2,['19p13.3'],True,mitogen-activated protein kinase kinase 2,ENSG00000126934
+protein_coding,ATP2B3,['Xq28'],True,ATPase plasma membrane Ca2+ transporting 3,ENSG00000067842
+protein_coding,RGPD3,['2q12.2'],True,RANBP2 like and GRIP domain containing 3,ENSG00000153165
+protein_coding,PTPN6,['12p13.31'],True,protein tyrosine phosphatase non-receptor type 6,ENSG00000111679
+protein_coding,SALL4,['20q13.2'],True,spalt like transcription factor 4,ENSG00000101115
+protein_coding,NTRK3,['15q25.3'],True,neurotrophic receptor tyrosine kinase 3,ENSG00000140538
+protein_coding,CHST11,['12q23.3'],True,carbohydrate sulfotransferase 11,ENSG00000171310
+protein_coding,PAX8,['2q14.1'],True,paired box 8,ENSG00000125618
+protein_coding,FAT3,['11q14.3'],True,FAT atypical cadherin 3,ENSG00000165323
+protein_coding,MSH2,"['2p21', '2p16.3']",True,mutS homolog 2,ENSG00000095002
+protein_coding,CTNND1,['11q12.1'],True,catenin delta 1,ENSG00000198561
+protein_coding,NCKIPSD,['3p21.31'],True,NCK interacting protein with SH3 domain,ENSG00000213672
+protein_coding,BCL2,['18q21.33'],True,BCL2 apoptosis regulator,ENSG00000171791
+protein_coding,ABL1,['9q34.12'],True,"ABL proto-oncogene 1, non-receptor tyrosine kinase",ENSG00000097007
+protein_coding,SRSF2,['17q25.1'],True,serine and arginine rich splicing factor 2,ENSG00000161547
+protein_coding,CEP43,['6q27'],True,centrosomal protein 43,ENSG00000213066
+protein_coding,TET2,['4q24'],True,tet methylcytosine dioxygenase 2,ENSG00000168769
+protein_coding,GAS7,['17p13.1'],True,growth arrest specific 7,ENSG00000007237
+protein_coding,TPM4,"['19p13.12', '19p13.11']",True,tropomyosin 4,ENSG00000167460
+protein_coding,BCL3,['19q13.32'],True,BCL3 transcription coactivator,ENSG00000069399
+protein_coding,NSD1,['5q35.3'],True,nuclear receptor binding SET domain protein 1,ENSG00000165671
+protein_coding,POT1,['7q31.33'],True,protection of telomeres 1,ENSG00000128513
+protein_coding,ETV5,['3q27.2'],True,ETS variant transcription factor 5,ENSG00000244405
+protein_coding,MAP2K4,['17p12'],True,mitogen-activated protein kinase kinase 4,ENSG00000065559
+protein_coding,FAS,['10q23.31'],True,Fas cell surface death receptor,ENSG00000026103
+protein_coding,NTHL1,['16p13.3'],True,nth like DNA glycosylase 1,ENSG00000065057
+protein_coding,ZEB1,['10p11.22'],True,zinc finger E-box binding homeobox 1,ENSG00000148516
+protein_coding,MAPK1,['22q11.22'],True,mitogen-activated protein kinase 1,ENSG00000100030
+protein_coding,TNFAIP3,['6q23.3'],True,TNF alpha induced protein 3,ENSG00000118503
+protein_coding,GPHN,['14q23.3'],True,gephyrin,ENSG00000171723
+protein_coding,PTPN13,['4q21.3'],True,protein tyrosine phosphatase non-receptor type 13,ENSG00000163629
+protein_coding,DNM2,['19p13.2'],True,dynamin 2,ENSG00000079805
+protein_coding,AXIN2,['17q24.1'],True,axin 2,ENSG00000168646
+protein_coding,CREB3L2,['7q33'],True,cAMP responsive element binding protein 3 like 2,ENSG00000182158
+protein_coding,PICALM,['11q14.2'],True,phosphatidylinositol binding clathrin assembly protein,ENSG00000073921
+protein_coding,FOXR1,['11q23.3'],True,forkhead box R1,ENSG00000176302
+protein_coding,ELL,['19p13.11'],True,elongation factor for RNA polymerase II,ENSG00000105656
+protein_coding,CAMTA1,"['1p36.31', '1p36.23']",True,calmodulin binding transcription activator 1,ENSG00000171735
+protein_coding,SOCS1,['16p13.13'],True,suppressor of cytokine signaling 1,ENSG00000185338
+protein_coding,PTPRK,['6q22.33'],True,protein tyrosine phosphatase receptor type K,ENSG00000152894
+protein_coding,PABPC1,['8q22.3'],True,poly(A) binding protein cytoplasmic 1,ENSG00000070756
+protein_coding,MLLT11,['1q21.3'],True,MLLT11 transcription factor 7 cofactor,ENSG00000213190
+protein_coding,NOTCH2,['1p12'],True,notch receptor 2,ENSG00000134250
+protein_coding,KNL1,['15q15.1'],True,kinetochore scaffold 1,ENSG00000137812
+protein_coding,FUS,['16p11.2'],True,FUS RNA binding protein,ENSG00000089280
+protein_coding,TFE3,['Xp11.23'],True,transcription factor binding to IGHM enhancer 3,ENSG00000068323
+protein_coding,ECT2L,['6q24.1'],True,epithelial cell transforming 2 like,ENSG00000203734
+protein_coding,MLLT6,['17q12'],True,"MLLT6, PHD finger containing",ENSG00000275023
+protein_coding,RANBP2,['2q13'],True,RAN binding protein 2,ENSG00000153201
+protein_coding,ACVR1,['2q24.1'],True,activin A receptor type 1,ENSG00000115170
+protein_coding,NBEA,['13q13.3'],True,neurobeachin,ENSG00000172915
+protein_coding,PTPRD,"['9p24.1', '9p23']",True,protein tyrosine phosphatase receptor type D,ENSG00000153707
+protein_coding,CCND3,['6p21.1'],True,cyclin D3,ENSG00000112576
+lncRNA,MDS2,"['1p36.12', '1p36.11']",True,myelodysplastic syndrome 2 translocation associated,ENSG00000197880
+protein_coding,H4C9,['6p22.1'],True,H4 clustered histone 9,ENSG00000276180
+protein_coding,TBX3,['12q24.21'],True,T-box transcription factor 3,ENSG00000135111
+protein_coding,RAF1,['3p25.2'],True,"Raf-1 proto-oncogene, serine/threonine kinase",ENSG00000132155
+protein_coding,ESR1,"['6q25.1', '6q25.2']",True,estrogen receptor 1,ENSG00000091831
+protein_coding,P2RY8,['Xp22.33'],True,P2Y receptor family member 8,ENSG00000182162
+protein_coding,GLI1,['12q13.3'],True,GLI family zinc finger 1,ENSG00000111087
+protein_coding,PAFAH1B2,['11q23.3'],True,platelet activating factor acetylhydrolase 1b catalytic subunit 2,ENSG00000168092
+protein_coding,PRF1,['10q22.1'],True,perforin 1,ENSG00000180644
+protein_coding,XPC,['3p25.1'],True,"XPC complex subunit, DNA damage recognition and repair factor",ENSG00000154767
+protein_coding,TP53,['17p13.1'],True,tumor protein p53,ENSG00000141510
+protein_coding,PER1,['17p13.1'],True,period circadian regulator 1,ENSG00000179094
+protein_coding,LRIG3,['12q14.1'],True,leucine rich repeats and immunoglobulin like domains 3,ENSG00000139263
+protein_coding,BMP5,['6p12.1'],True,bone morphogenetic protein 5,ENSG00000112175
+protein_coding,GRM3,"['7q21.11', '7q21.12']",True,glutamate metabotropic receptor 3,ENSG00000198822
+protein_coding,SRC,['20q11.23'],True,"SRC proto-oncogene, non-receptor tyrosine kinase",ENSG00000197122
+protein_coding,ASXL1,['20q11.21'],True,ASXL transcriptional regulator 1,ENSG00000171456
+protein_coding,MLLT3,['9p21.3'],True,MLLT3 super elongation complex subunit,ENSG00000171843
+protein_coding,MYCL,['1p34.2'],True,"MYCL proto-oncogene, bHLH transcription factor",ENSG00000116990
+protein_coding,GPC5,['13q31.3'],True,glypican 5,ENSG00000179399
+protein_coding,HSP90AA1,['14q32.31'],True,heat shock protein 90 alpha family class A member 1,ENSG00000080824
+protein_coding,CASP8,['2q33.1'],True,caspase 8,ENSG00000064012
+protein_coding,MUC4,['3q29'],True,"mucin 4, cell surface associated",ENSG00000145113
+protein_coding,PTPN11,['12q24.13'],True,protein tyrosine phosphatase non-receptor type 11,ENSG00000179295
+protein_coding,FH,['1q43'],True,fumarate hydratase,ENSG00000091483
+protein_coding,ARHGAP5,['14q12'],True,Rho GTPase activating protein 5,ENSG00000100852
+protein_coding,MYCN,['2p24.3'],True,"MYCN proto-oncogene, bHLH transcription factor",ENSG00000134323
+protein_coding,CDK4,['12q14.1'],True,cyclin dependent kinase 4,ENSG00000135446
+protein_coding,FAM47C,['Xp21.1'],True,family with sequence similarity 47 member C,ENSG00000198173
+protein_coding,EXT1,['8q24.11'],True,exostosin glycosyltransferase 1,ENSG00000182197
+protein_coding,SRSF3,"['6p21.31', '6p21.2']",True,serine and arginine rich splicing factor 3,ENSG00000112081
+protein_coding,PDGFRB,['5q32'],True,platelet derived growth factor receptor beta,ENSG00000113721
+protein_coding,MED12,['Xq13.1'],True,mediator complex subunit 12,ENSG00000184634
+protein_coding,THRAP3,['1p34.3'],True,thyroid hormone receptor associated protein 3,ENSG00000054118
+protein_coding,LATS2,['13q12.11'],True,large tumor suppressor kinase 2,ENSG00000150457
+protein_coding,SMARCA4,['19p13.2'],True,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",ENSG00000127616
+protein_coding,RHOA,['3p21.31'],True,ras homolog family member A,ENSG00000067560
+protein_coding,RUNX1T1,['8q21.3'],True,RUNX1 partner transcriptional co-repressor 1,ENSG00000079102
+protein_coding,COL3A1,['2q32.2'],True,collagen type III alpha 1 chain,ENSG00000168542
+protein_coding,CANT1,['17q25.3'],True,calcium activated nucleotidase 1,ENSG00000171302
+protein_coding,DROSHA,['5p13.3'],True,drosha ribonuclease III,ENSG00000113360
+protein_coding,TP63,['3q28'],True,tumor protein p63,ENSG00000073282
+protein_coding,NRG1,['8p12'],True,neuregulin 1,ENSG00000157168
+protein_coding,ACSL3,['2q36.1'],True,acyl-CoA synthetase long chain family member 3,ENSG00000123983
+protein_coding,PIK3CB,['3q22.3'],True,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",ENSG00000051382
+protein_coding,TPM3,['1q21.3'],True,tropomyosin 3,ENSG00000143549
+protein_coding,NIN,['14q22.1'],True,ninein,ENSG00000100503
+protein_coding,TOP1,['20q12'],True,DNA topoisomerase I,ENSG00000198900
+protein_coding,FOXO1,['13q14.11'],True,forkhead box O1,ENSG00000150907
+protein_coding,EPAS1,['2p21'],True,endothelial PAS domain protein 1,ENSG00000116016
+protein_coding,PPP2R1A,['19q13.41'],True,protein phosphatase 2 scaffold subunit Aalpha,ENSG00000105568
+protein_coding,SIRPA,['20p13'],True,signal regulatory protein alpha,ENSG00000198053
+protein_coding,MEN1,['11q13.1'],True,menin 1,ENSG00000133895
+protein_coding,EIF3E,['8q23.1'],True,eukaryotic translation initiation factor 3 subunit E,ENSG00000104408
+protein_coding,PAX3,['2q36.1'],True,paired box 3,ENSG00000135903
+protein_coding,TCF3,['19p13.3'],True,transcription factor 3,ENSG00000071564
+protein_coding,MUTYH,['1p34.1'],True,mutY DNA glycosylase,ENSG00000132781
+protein_coding,BRCA2,['13q13.1'],True,BRCA2 DNA repair associated,ENSG00000139618
+protein_coding,PREX2,['8q13.2'],True,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",ENSG00000046889
+protein_coding,FLI1,['11q24.3'],True,"Fli-1 proto-oncogene, ETS transcription factor",ENSG00000151702
+protein_coding,DCTN1,['2p13.1'],True,dynactin subunit 1,ENSG00000204843
+protein_coding,NUMA1,['11q13.4'],True,nuclear mitotic apparatus protein 1,ENSG00000137497
+protein_coding,PTCH1,['9q22.32'],True,patched 1,ENSG00000185920
+protein_coding,CACNA1D,['3p21.1'],True,calcium voltage-gated channel subunit alpha1 D,ENSG00000157388
+protein_coding,SMARCB1,['22q11.23'],True,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1",ENSG00000099956
+protein_coding,PTPRT,"['20q12', '20q13.11']",True,protein tyrosine phosphatase receptor type T,ENSG00000196090
+protein_coding,TLX1,['10q24.31'],True,T cell leukemia homeobox 1,ENSG00000107807
+protein_coding,RAC1,['7p22.1'],True,Rac family small GTPase 1,ENSG00000136238
